@@ -25,7 +25,7 @@ Let's connect and explore the fascinating world of medical imaging together! ðŸŒ
 
 ## GitHub Stats & Top Languages
 
-![Imran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imran-maia&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imran-maia&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imran-maia&layout=compact&theme=radical)
 
 
