@@ -11,7 +11,7 @@ I have a keen interest in the intersection of Medical Imaging and Artificial Int
 - Machine and Deep Learning 🚀
 - Image Reconstruction 🖼️
 
-## Collaboration Opportunities
+## Collaboration 
 
 I am actively seeking collaboration opportunities with researchers for projects related to medical imaging. Let's join forces and create something impactful! 💞
 
